@@ -4,6 +4,8 @@
 - 💻 I’m developing tools to help do so
 - 🎥 French 🇫🇷 speaker learning Japanese 🇯🇵 ? [Follow me on Youtube](https://www.youtube.com/channel/UC_CxcQbEicRSsQ3eL1_m2zQ)
 
+🙏 If you like my work, please consider following my main profile as well: https://github.com/didmar
+
 <!---
 itsupera/itsupera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
